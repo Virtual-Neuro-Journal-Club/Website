@@ -12,7 +12,7 @@ Join us every other Tuesday at 11am EDT/5pm CET!
 | `May 26th` | Dr. Randy McIntosh | *Flow and manifolds in cognition and neural networks* | To be added | 
 | `June 9th` | TBD | TBD | To be added |
 | `June 23rd` | No meeting - OHBM | --- | --- |
-| `July 7th` | TBD | TBD | To be added |
+| `July 7th` | Mo Bsat | *Discussing "Me and white supremacy"* | To be added |
 | `July 21st` | Dr. Nicolai Franzmeier | TBD | To be added |
 | `August 4th` | Dr. Danilo Bzdok | TBD | To be added |
 

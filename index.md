@@ -15,7 +15,9 @@ Join us every other Tuesday at 11am EDT/5pm CET!
 | `July 7th` | Mo Bsat | *Discussing "Me and white supremacy"* | To be added |
 | `July 21st` | Dr. Nicolai Franzmeier | TBD | To be added |
 | `August 4th` | Dr. Danilo Bzdok | TBD | To be added |
-
+| `August 18th` | Dr. Thomas Hinault | *Disrupted Neural Synchrony Mediates the Relationship between White Matter Integrity and Cognitive Performance in Older Adults* | To be added |
+| `September 1st` | TBD | TBD | To be added |
+| `September 15th` | Elizabeth DuPre | TBD | To be added |
 
 ### Contact
 If you would like to present a paper, your work or make any suggestions on potential speakers, please contact:

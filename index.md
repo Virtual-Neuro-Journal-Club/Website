@@ -18,8 +18,8 @@ Join us every other Tuesday at 11am EDT/5pm CET!
 | `August 18th` | Dr. Thomas Hinault | *Disrupted neural synchrony mediates the relationship between white matter integrity and cognitive performance in older adults* | 
 | `September 1st` | VJC members | *Crosstalk between continents* | 
 | `September 15th` | Elizabeth DuPre | *A role for community-driven methods development in naturalistic neuroscience* | 
-| `September 29th` | VJC members | *A coversion about...characterizing noise in the brain* | 
-| `October 13th` | VJC members | *A coversion about..."Observation need to be organized into coherent theories to allow further progress."(Buzsáki, 2020)* | 
+| `September 29th` | VJC members | *A conversation about...characterizing noise in the brain* | 
+| `October 13th` | VJC members | *A conversation about..."Observation need to be organized into coherent theories to allow further progress."(Buzsáki, 2020)* | 
 
 ### Contact
 If you would like to present a paper, your work or make any suggestions on potential speakers, please contact:

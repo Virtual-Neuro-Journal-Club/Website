@@ -8,7 +8,7 @@ Join us every other Tuesday at 11am EDT/5pm CET!
 | :------: | :------: | :------: | :------: | 
 | `April 14th` | Silvia Fanton | *Temporal Network Theory* | 
 | `April 28th` | Giulia Baracchini | *Intro to Machine Learning & ANNs* | 
-| `May 12th` | Shireen Parimoo | *Overview on DTI* | To be added | 
+| `May 12th` | Shireen Parimoo | *Overview on DTI* | 
 | `May 26th` | Dr. Randy McIntosh | *Flow and manifolds in cognition and neural networks* | 
 | `June 9th` | No meeting - VJC planning | --- | 
 | `June 23rd` | No meeting - OHBM | --- | 
